@@ -2,3 +2,5 @@ My goal was to study the critical behavior of the system at the percolation tran
 Key questions answered:
 - How does the size of the largest connected component scales with the system size at the critical point?
 - How does the size of the largest connected component grows with "p"  at the critical point?
+
+<img width="524" alt="image" src="https://github.com/user-attachments/assets/ba2e921c-6bc4-4925-b9ef-33574837a068" />
